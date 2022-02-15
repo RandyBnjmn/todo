@@ -10,6 +10,7 @@
   "dependencies": {
     "axios": "^0.26.0",
     "core-js": "^3.6.5",
+    "sweetalert2": "^11.4.0",
     "vue": "^2.6.11",
     "vuelidate": "^0.7.7",
     "vuetify": "^2.4.0",
